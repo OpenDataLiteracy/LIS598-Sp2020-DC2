@@ -1,6 +1,6 @@
 book_filename: "bookdown-start"
-chapter_name: "Chapter "
-repo: https://github.com/seankross/bookdown-start
+chapter_name: "Module "
+repo: https://github.com/OpenDataLiteracy/infx551-bookdown
 output_dir: docs
 rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Diving-In.Rmd"]
 clean: [packages.bib, bookdown.bbl]
