@@ -1,7 +1,7 @@
 --- 
 title: "INFX 551: Fundamentals of Data Curation"
 author: "Nicholas Weber"
-date: "`r Sys.Date()`"
+date: "2017-11-08"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
