@@ -3,5 +3,7 @@ chapter_name: "Module "
 repo: https://github.com/OpenDataLiteracy/infx551-bookdown
 output_dir: docs
 rmd_files: 
+  - index.Rmd
+  
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
