@@ -4,6 +4,9 @@ repo: https://github.com/OpenDataLiteracy/infx551-bookdown
 output_dir: docs
 rmd_files: 
   - index.Rmd
-  
+  - 01-Data.Rmd
+  - 02-Systems.Rmd
+  - 03-Policy-Privacy-Ethics.Rmd
+  - 04-Assignments.Rmd
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
