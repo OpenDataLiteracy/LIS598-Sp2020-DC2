@@ -14,4 +14,6 @@ description: "This course examines the publication, stewardship, and preservatio
 
 # Introduction to INFX 551 {-}
 
-This is where I give you an overview of the course and tell you how much $ you will make being a data curator.
+This is where I give you an overview of the course and tell you how much $ you will make being a data curator. 
+
+Talk about how the modules will work: Monday lecture about overview of the topic Thursday deeper dive into the topic.

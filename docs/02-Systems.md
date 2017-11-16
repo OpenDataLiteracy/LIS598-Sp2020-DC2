@@ -1,14 +1,16 @@
 # Systems
 
-Now let's talk details.
+This three-week module focuses on systems.
 
 ## Repositories & Storage
 
 ### Overview
 
-### Slides
+### Lectures
 
-### Domain
+### Required Readings 
+
+### Recommended Readings
 
 #### Science
 
@@ -20,9 +22,11 @@ Now let's talk details.
 
 ### Overview
 
-### Slides
+### Lectures
 
-### Domain
+### Required Readings 
+
+### Recommended Readings
 
 #### Science
 
@@ -34,9 +38,11 @@ Now let's talk details.
 
 ### Overview
 
-### Slides
+### Lectures
 
-### Domain
+### Required Readings 
+
+### Recommended Readings
 
 #### Science
 
@@ -45,3 +51,5 @@ Now let's talk details.
 #### Public Sector
 
 ## Assignment
+
+The assignment for Module 2 is...

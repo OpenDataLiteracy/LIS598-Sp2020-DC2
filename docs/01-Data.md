@@ -1,14 +1,16 @@
 # Data
 
-This is the first real chapter.
+This three-week module will focus on data.
 
 ## Types & Roles
 
 ### Overview
 
-### Slides
+### Lectures
 
-### Domain
+### Required Readings 
+
+### Recommended Readings
 
 #### Science
 
@@ -20,9 +22,11 @@ This is the first real chapter.
 
 ### Overview
 
-### Slides
+### Lectures
 
-### Domain
+### Required Readings 
+
+### Recommended Readings
 
 #### Science
 
@@ -34,9 +38,11 @@ This is the first real chapter.
 
 ### Overview
 
-### Slides
+### Lectures
 
-### Domain
+### Required Readings 
+
+### Recommended Readings
 
 #### Science
 
@@ -45,4 +51,6 @@ This is the first real chapter.
 #### Public Sector
 
 ## Assignment
+
+The assignment for Module 1 is to create a data dictionary.
 
