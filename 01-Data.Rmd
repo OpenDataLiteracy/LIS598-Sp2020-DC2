@@ -8,6 +8,12 @@ This three-week module will focus on data.
 
 ### Lectures
 
+The video below is just a test of embedding youtube videos. The link to use is the one you find in the embed code. Not the url to the YouTube video. Note the word "embed" within the url:
+
+`r knitr::include_url("https://www.youtube.com/embed/fKEKCThqfjA")`
+
+
+
 ### Required Readings 
 
 ### Recommended Readings
