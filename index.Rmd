@@ -1,19 +1,61 @@
 --- 
-title: "INFX 551: Fundamentals of Data Curation"
-author: "Nicholas Weber"
+title: "LIS 598 - Data Curation II"
+author: "Nicholas Weber" , "Bree Norlander"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: OpenDataLiteracy/infx551-bookdown
-url: 'http\://opendataliteracy.github.io/infx551-bookdown/fundamentals-data-curation'
-description: "This course examines the publication, stewardship, and preservation of digital data."
+github-repo: OpenDataLiteracy/LIS598-Sp2020-DC2
+url: 'http\://opendataliteracy.github.io/LIS598-Sp2020-DC2/data.html
+description: ""
 ---
 
-# Introduction to INFX 551 {-}
+# Graduate school during a pandemic
+There is no way of putting this simply other than to say this is going to be a difficult quarter. I usually put a note in my syllabus that says something along the lines of "...coursework occasionally needs to come second in your life. All of us have commitments that exceed the expectation of being online and engaged each week, and I don't expect you to be operating at 100% engagement each day." Even this qualification seems out of touch given the current climate we are operating in for the Spring 2020 quarter. There will be demands on your time, attention, and cognitive ability to engage with substantive material over the next 10 weeks. There are many unknowns that we are each managing. I have relaxed my own personal expectations for this quarter, and I encourage you all to do the same. This doesn't mean that I will give anything short of 100% effort to delivering a high quality course, but lets operate with a healthy and charitable amount of good will towards each other and towards ourselves for the next 10 weeks. I encourage you all to read my colleague Anna Hoffman's [very personal and incredibly eloquent](https://medium.com/@annaeveryday/altered-is-the-fashion-of-the-earth-teaching-and-learning-during-a-global-pandemic-to-my-e08bd7e473c3) take on the challenges that we face in the quarter that lies ahead.
 
-This is where I give you an overview of the course and tell you how much $ you will make being a data curator. 
+Here is my adjusted plan to help us navigate the next 10 weeks:
 
-Talk about how the modules will work: Monday lecture about overview of the topic Thursday deeper dive into the topic.
+### Accessability
+- I am providing most of the text of what are typically lectures (audio and slides) in the form of written chapters for each week of the course. This makes skimming and digesting the material much easier, and will provide a reference for you to return to this content and absorb it at any time in the future. I will also provide a short and hopefully helpful lecture each week, but the majority of the substantive content I am trying to make create for the course will be in the form of written chapters.
+- On a week to week basis circumstances may change for how and when you are able to access course materials. I am attempting to provide PDFs where possible of all the readings that are assigned. These will not require you to have any kind of remote VPN or UW affiliated credentials to access. If you cannot, for any reason, access course materials please be in touch and I will attempt to fix the issue as soon as possible.
+
+### Reduced workload and expectations for engagement
+- I will not use any form of participation for your final grade. It is unfortunate, but also unrealistic that we can engage in forum discussions the way that I typically design this course to run. We will still have that opportunity, but keep in mind that I do not expect that your weekly contribution or calculate this into your final mark.
+- The project that makes up a substantive amount of work at the conclusion of this quarter will have some examples from previous courses. I do not expect that you are striving to equal the depth or scope of content that student's in previous courses have had the freedom to execute. See my previous comment about relaxing expectations and demands of ourselves - this doesn't mean that we should give anything less than what we are capable - but our capabilities are, collectively, diminished this quarter.
+
+### Maximum flexibility
+- Everything in this class is negotiable. That applies to grades, assignments, and any course content. Be in touch when and where you need to negotiate any part of this course, and I can promise you I will be as flexible within the constraints of the University as is possible.
+- Assignments have an expected or priority deadline, but these are not hard deadlines. You can turn in assignments at any time throughout the quarter and I will provide feedback as is necessary for you to understand and contextualize the goal of the assignment. I have two requests related to this policy: 1. Please make an earnest effort to keep up with work. I don't know how to design a course (and I'm not sure it is even possible) that doesn't take advantage of progressive knowledge gain. Meaning - practice or exercise in one week can be the baseline for starting an assignment the next week. There will undeniably be moments where this isn't possible - but give it your best effort. 2. Please try to communicate when a priority deadline is not realistic for you to meet. This can be in advance or after a deadline has passed. You do not need to explain why. If you are falling behind and I don't have any communication from you I may reach out with an email. Please don't interpret this as any form of pressure other than my expressing a concern.
+
+# How this class is organized
+There are two sections of this class. The first section (weeks 1-4) follows the typical structure of an iSchool online course. The second section of the class (weeks 5-10) also includes lectures and readings, but the major focus of your work is executing a project. Practically this breaks down as follows:   
+
+**Weekly content Week 1-4**: each week or module within the course consists of, at minimum four components: 1. Readings (required and optional); 2. Written chapters; 3. Recorded lectures; 4. Open discussion.
+
+- Readings are meant to reinforce concepts and offer practical applications or extensions of the concept / topic we are discussing each week.
+- Written explanations act like an informal textbook chatper. They are an extended narrative where I attempt to explain, define, and introduce concepts related to data curation. You should read these thoroughly - but also feel free to return to these as a reference resource in the future.
+- Short lecture reinforce important points from the chapter and provide an opportunity to present more dynamic content. Where possible I will provide links to slides that are used, and all lectures will be accessible as an MP4 that you can view on any device or with any program of your choosing.
+- Open discussions have two forms - you can participate in a Canvas discussion with your colleagues (I have created a disucssion thread for each of week of class), and I will host an open office hour each week. I'll record these via Zoom so that if you are not able to attend you can see what was discussed.
+
+**Assignments Week 1-4**: Each week I will post an exercise that asks you to engage with open data. This might include restructuring a dataset, using a tool, or practicing some skill that is applicable to our weekly topic.
+
+**Weekly content Week 5-10**: each week will resemble our previous classes - it will include: 1. Readings (required and optional); 2. Written chapters; and 3. Recorded lectures. The difference is that in weeks 5-10 you will meet with me (or check-in via email) about steps taken to complete your final assignment. This provides an opportunity for you to work with me more directly - asking questions or clarifications - in exercises. I will work with you or your group to schedule a convenient time to meet each week.
+
+**Assignments Week 5-10**: Each week I will post an exercise that you or your group are to complete in advnace of our meeting. This will become clearer as the quarter moves along - but just keep in mind that your exercises or assignments in the second section of the class are in service of a final project.
+
+## Weekly Overview
+
+| Week | Topic                                   | Readings | Assignment            | Chapter | Lecture |
+|------|-----------------------------------------|----------|-----------------------|---------|---------|
+| 0    | Class Introduction                      | None     | Read Syllabus         |         |         |
+| 1    | Tables, Trees, and Triples              |          | [Cookie Recipes]()    |         |         |
+| 2    | Tidy Data                               |          | [Messy recipe data]() |         |         |
+| 3    | Data Integration                        |          | [311 data]()          |         |         |
+| 4    | Data Packaging                          |          | [Data Packegr]()      |         |         |
+| 5    | Human Factors in Data Curation          |          |                       |         |         |
+| 6    | Data Acquisition, Search, and Discovery |          |                       |         |         |
+| 7    | Metadata Application Profiles           |          |                       |         |         |
+| 8    | Ontologies and Linked Data              |          |                       |         |         |
+| 9    | Emerging Topics                         |          |                       |         |         |
